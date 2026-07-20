@@ -2,7 +2,7 @@
 ![Banner](IMAGES/banner.png)
 ### Lateral Movement & Living-off-the-Land Detection | INC-2026-03-01
 
----
+![Banner](IMAGES/Executive.png)
 
 ## Overview
 
@@ -102,7 +102,7 @@ The investigation was conducted exclusively on available log sources. The follow
 
 All findings are scoped to what the available telemetry can support.
 
-![Banner](IMAGES/Executive.png)
+---
 
 ## Methodology
 
