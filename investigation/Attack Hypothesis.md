@@ -80,7 +80,7 @@ The 4-second interval between both attempts against the same destination is cons
 | Lateral Movement | T1021 | Remote Services | Outbound port 445 → 10.0.50.99 (DROP) | CONFIRMED |
 | Credential Access | T1552.001 | Unsecured Credentials: Credentials in Files | Plaintext `-p` argument in PsExec command line | CONFIRMED |
 
----
+![Banner](../IMAGES/Chainflow.png)
 
 ## Kill Chain Visualization
 
