@@ -195,7 +195,7 @@ Each piece of evidence is presented as collected from Elastic SIEM, followed by 
 - **INFERRED:** The operator was attempting to access `10.0.50.99` via multiple remote access protocols simultaneously — consistent with lateral movement preparation
 - **CONFIRMED:** The SMB attempt was effectively contained at the network layer on this host
 
----
+![Banner](../IMAGES/Topology.png)
 
 ## Evidence Cross-Reference
 
