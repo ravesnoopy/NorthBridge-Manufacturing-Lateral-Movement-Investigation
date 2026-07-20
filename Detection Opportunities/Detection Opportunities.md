@@ -208,7 +208,7 @@ sequence by host.name with maxspan=15m
 
 **Expected false positive rate:** Very low
 
----
+![Banner](../IMAGES/GapDashboard.png)
 
 ## Detection Coverage Summary
 
