@@ -25,7 +25,7 @@ No evidence was fabricated. No conclusions exceed what the available telemetry s
 | **User** | `m.perez` |
 | **Initial Alert Severity** | Low / Informational |
 | **Investigation Outcome** | Suspected lateral movement attempt — LotL techniques confirmed |
-| **Containment Status** | Pending — see [Recommendations](remediation/Recommendations.md) |
+| **Containment Status** | Pending — see [Recommendations](Remediation/Recommendations.md) |
 
 ---
 
